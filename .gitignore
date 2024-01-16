@@ -1,4 +1,6 @@
 backend/test ignore
 backend/*
 backend/
+backend2/*
+backend2/
 
